@@ -8,5 +8,9 @@
 <body>
     <h1>Halo Day</h1>
     <p>Hai-hai</p>
+    <ul>
+        <li>Satu</li>
+        <li>Dua</li>
+    </ul>
 </body>
 </html>
